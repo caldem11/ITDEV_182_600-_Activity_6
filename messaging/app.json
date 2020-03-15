@@ -4,6 +4,7 @@
     "slug": "messaging",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "androidStatusBar": { "barStyle": "dark-content", "backgroundColor": "#FFFFFF" },
     "platforms": [
       "ios",
       "android",
